@@ -1,0 +1,11 @@
+.button{
+	-fx-border-width: 1;
+	-fx-border-radius: 10 10 10 10;
+    -fx-background-radius: 0;
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+}
+
+.button:hover{
+	-fx-background-color: #5a5a5a;
+}
